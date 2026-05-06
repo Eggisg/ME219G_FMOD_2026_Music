@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{b7a6feef-5586-4f4d-a76a-f2bde1028cae}">
+		<property name="assetPath">
+			<value>MusicAssets_2024/MusicAssets_2024/SpaceFactory_100BPM/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
