@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{5de6699a-9977-4988-a5a5-0a92b6d65b05}">
+	<object class="AudioFile" id="{6d3da03d-b74b-497e-bc04-54b337db7b63}">
 		<property name="assetPath">
-			<value>ZONE3_108_44_34_Drums.ogg</value>
+			<value>BossStage_Tension_150_68.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>133.37383219954648</value>
+			<value>13.5</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>

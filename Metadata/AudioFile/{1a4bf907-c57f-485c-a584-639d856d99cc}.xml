@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{09ab67ca-1146-4170-9744-e5d8921f18c6}">
+	<object class="AudioFile" id="{1a4bf907-c57f-485c-a584-639d856d99cc}">
 		<property name="assetPath">
-			<value>ZONE1_150_68.ogg</value>
+			<value>ZONE4_Combat_120_44.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>70.404172335600904</value>
+			<value>118.36458049886622</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
