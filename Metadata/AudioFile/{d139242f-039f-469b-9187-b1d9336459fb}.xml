@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d139242f-039f-469b-9187-b1d9336459fb}">
 		<property name="assetPath">
-			<value>BossStage_Intro_150_68.ogg</value>
+			<value>MusicAssets/BossStage_Intro_150_68.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>20.895827664399093</value>
+			<value>19.508344671201815</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>

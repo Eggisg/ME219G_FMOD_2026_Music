@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{ab0e3bef-5f75-4cac-b5f7-209dbec32fe0}">
+		<property name="name">
+			<value>KeysCollected</value>
+		</property>
+		<relationship name="folder">
+			<destination>{190eb20c-166b-403f-ac57-fb42d2a21106}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2c11d083-9a9b-4664-b4fa-e1c352a2446c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2c11d083-9a9b-4664-b4fa-e1c352a2446c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
