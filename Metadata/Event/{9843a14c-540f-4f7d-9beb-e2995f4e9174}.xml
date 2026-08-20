@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9843a14c-540f-4f7d-9beb-e2995f4e9174}">
+		<property name="note">
+			<value>Zone 1&amp;2 använder samma lager för båda områdena är fridfulla.
+
+Zone 3 parametern tystar zone 1&amp;2 och fadear in alla andra lager som tillsammans bygger zone 3 med seek modulation. 
+
+Combat parametern tystar drums och lead på zone 3 och spelar upp ett nytt set av drums och lead.
+
+Alla zone 3 lager skickas till en reverb bus innan master så att övergångarna vara mer seamless.
+Reverben på både zone 1&amp;2 och reverb bus har seek modulation för att mjuka ändringen på wet level inuti både reverben.</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>

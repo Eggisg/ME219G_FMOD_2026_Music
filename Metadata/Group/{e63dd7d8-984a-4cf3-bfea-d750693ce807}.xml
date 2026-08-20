@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{e63dd7d8-984a-4cf3-bfea-d750693ce807}">
+		<property name="note">
+			<value>Grupp med alla event som ska påverkas av Sidechain Compression för duckning av volym.</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>

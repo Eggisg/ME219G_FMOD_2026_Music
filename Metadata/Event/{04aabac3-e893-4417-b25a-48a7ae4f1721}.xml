@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{04aabac3-e893-4417-b25a-48a7ae4f1721}">
+		<property name="note">
+			<value> Simpel loop med transition för att hindra pop.
+
+Combat parametern fadear in ett nytt set trummor som spelar tillsammans med det normala. Ett piano spelas också på samma lager.
+MainMelody tonas ut samtidigt som Combat tonas in och både tracksen har varsin reverb som är automated at höja o sänka Wet gain för mjukare övergångar och mer spacey känsla.
+</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{c47b1469-cdc3-4840-847c-2afd1e65accb}">
+		<property name="note">
+			<value>Grupp för stingers som ska agera som en sidechain send till MusicSC så att kompressorn kan ta effekt och följa dynamiskt till volymen av stingern.</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>

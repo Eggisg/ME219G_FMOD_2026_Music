@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a6381488-190b-4fdd-a7d1-f63c16f73b07}">
+		<property name="note">
+			<value>Action sheet för att lättare spela upp ljudet som en oneshot
+Sidechain compression används i mixer för att sänka volymen på allt annat för att sätta fokus på stingern</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>

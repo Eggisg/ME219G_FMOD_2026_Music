@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{326ed9cd-01f4-43b9-a1e9-9f8d0127f38a}">
+	<object class="AudioFile" id="{2b399c1c-363a-4306-ae17-897303efbbb6}">
 		<property name="assetPath">
 			<value>MusicAssets/KeyProgress.ogg</value>
 		</property>

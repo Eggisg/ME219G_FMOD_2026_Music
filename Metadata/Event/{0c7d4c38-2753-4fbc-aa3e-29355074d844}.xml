@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{0c7d4c38-2753-4fbc-aa3e-29355074d844}">
+		<property name="note">
+			<value>Action sheet för att lättare spela upp ljudet som en oneshot
+Sidechain compression används i mixer för att sänka volymen på allt annat för att sätta fokus på stingern</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>
@@ -146,7 +150,7 @@
 			<value>-6.5</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{326ed9cd-01f4-43b9-a1e9-9f8d0127f38a}</destination>
+			<destination>{2b399c1c-363a-4306-ae17-897303efbbb6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{0b16a0ce-8ff4-4a15-801f-d8f995861526}" />
